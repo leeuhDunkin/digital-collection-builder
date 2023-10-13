@@ -1,6 +1,9 @@
 objectid,filename,format,title,creator,date,location,description,subject
-1152072502,001.jpg,image/jpeg,Hello,Leah,1988,Baton Rouge,Scooby doo,dogs; snacks
-1152072831,002.pdf,image/jpeg,Weaver,Leah Duncan,2023,Backyard,A black cat,cat; halloween
-1152074412,003.jpg,image/jpeg,Cat,Brian,Summer 2022,A field,Cat who is sleepy,cat; tabby; relaxed
-1152074756,004.jpg,image/jpeg,Bylaws,LDC,2015,Louisiana,Bylaws for this group,organizations; rules
-1152075316,005.jpg,image/jpeg,Pride Pots,Museum of Art,Fall 2023,Hill Memorial Library,A flier for an event,lgbtq; ceramics
+racerelations001,001.jpg,image/jpeg,Title 1,Leah 1,1990,Louisiana,hello hello,cat; dog; mouse
+racerelations002,002.pdf,image/jpeg,Dog,LDL,1897,New York,a dog,dog; photography
+racerelations003,003.jpg,image/jpeg,Something,Pat,?,Florida,something cool,florida; palms
+racerelations004,004.jpg,image/jpeg,four,fourth,1904,Four Trees Ville,fourth test,four; yes; no
+racerelations005,005.jpg,image/jpeg,Five,fifth,1905,Fiveton,fifth example,five; fifth
+racerelations006,006.jpg,image/jpeg,Six,sixth,1906,Six Oaks,sixth example,six
+racerelations007,007.jpg,image/jpeg,Seven,Ghost,1907,Nowhere,no image,silence; absense
+racerelations008,008.jpg,image/jpeg,Test,Test,Summer,Test,Test,

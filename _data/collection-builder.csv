@@ -1,9 +1,6 @@
-objectid,filename,title,creator,date,description,subject,location,format
-raceRelations001,001.jpg,Pride Pots,Museum of Art,Fall 2023,A flier for an event,lgbtq; ceramics,Hill Memorial Library,Flier
-raceRelations002,002.pdf,Bylaws,LDC,2015,Bylaws for this group,organizations; rules,Louisiana,PDF
-raceRelations003,003.jpg,Cat,Brian,Summer 2022,Cat who is sleepy,cat; tabby; relaxed,A field,Photo
-raceRelations004,004.jpg,Weaver,Leah Duncan,2023,A black cat,cat; halloween,Backyard,photo
-raceRelations005,005.jpg,Hello,Leah,1988,Scooby doo,dogs; snacks,Baton Rouge,
-raceRelations006,006.jpg,,,,,,,
-raceRelations007,007.jpg,,,,,,,
-raceRelations008,008.jpg,,,,,,,
+objectid,filename,format,title,creator,date,location,description,subject
+1152072502,001.jpg,map,Hello,Leah,1988,Baton Rouge,Scooby doo,dogs; snacks
+1152072831,002.pdf,photo,Weaver,Leah Duncan,2023,Backyard,A black cat,cat; halloween
+1152074412,003.jpg,Photo,Cat,Brian,Summer 2022,A field,Cat who is sleepy,cat; tabby; relaxed
+1152074756,004.jpg,PDF,Bylaws,LDC,2015,Louisiana,Bylaws for this group,organizations; rules
+1152075316,005.jpg,Flier,Pride Pots,Museum of Art,Fall 2023,Hill Memorial Library,A flier for an event,lgbtq; ceramics

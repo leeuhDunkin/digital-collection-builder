@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
+topic,Topic,
 creator,Creator,
 date,Date Created,
 description,Description,
@@ -10,6 +11,5 @@ longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
-format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true

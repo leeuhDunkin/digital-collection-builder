@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
+topic,Topic,,,
 date,Date,,,Date
 creator,Creator,,,
 description,Description,,,
